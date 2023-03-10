@@ -6,9 +6,9 @@
 - 😄 Pronouns: She/Her
 - 🎻 Fun fact: Ask me about anything violin!
 
-Filling up projects below!!!
+<!-- Filling up projects below!!!
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ndough"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ndough"/> -->
 <!-- <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=ndougha&show_icons=true&theme=dark"
