@@ -8,8 +8,8 @@
 
 Filling up projects below!!!
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ndough"/>
-<picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ndough"/>
+<!-- <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=ndougha&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
