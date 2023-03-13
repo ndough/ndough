@@ -1,7 +1,7 @@
 ### Hi there! I'm Nina @ndough 👋
 
 - 🔭 I’m currently learning system design engineering at UWaterloo
-- 🌱 Dreaming about designing, coding, and data mining
+- 🌱 Currently learning about Angular and CV
 - 📫 How to reach me: npdo@uwaterloo.ca
 - 😄 Pronouns: She/Her
 - 🎻 Fun fact: Ask me about anything violin!
