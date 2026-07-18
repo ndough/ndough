@@ -1,8 +1,8 @@
-# Hi, I’m Nina 👋🏻
+# hellooo, I’m Nina 🐣
 
 Most of my favorite projects start with: **“There has to be a less painful way to do this.”**
 
-I’m a Systems Design Engineering student at the University of Waterloo, graduating in 2027. I enjoy owning messy product problems end to end—from the user experience to the backend, rollout, and measurement.
+Currently, I'm a Systems Design Engineering student @ UWaterloo, graduating in 2027. I enjoy owning messy product problems end to end—from the user experience to the backend, rollout, and measurement.
 
 ### A few things I’ve worked on
 
